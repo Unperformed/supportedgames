@@ -1,7 +1,7 @@
 [
   {"name": "Steal a Brainrot", "status": "green"},
   {"name": "Emergency Hamburg", "status": "green"},
-  {"name": "Sniper Duels", "status": "red", "note": "MIGHT BE DETECTED, USE ALT UNTIL I FIX"},
+  {"name": "Sniper Duels", "status": "green"},
   {"name": "99 Nights in the Forest", "status": "green"},
   {"name": "Jailbreak", "status": "yellow", "note": "use alt and trade stuff to main"},
   {"name": "Pet Simulator 99", "status": "green"},
